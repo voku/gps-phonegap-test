@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.test.app.example.geolocation.HelloWorld { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class org.jshybugger.DebugContentProvider { <init>(...); }
+
